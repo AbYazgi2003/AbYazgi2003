@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdallah Sakem Elyazgi
-- 👀 I Study at IUG 
-- 🌱 I’m currently learning JAVA & front ent (HTML,CSS,JS)
+- 🌱 I’m currently learning JAVA Spring & JavaFX 
+- I Hava Knowledge about frontEnd & BackEnd Web Applicatuon
 - 💞️ I’m looking to Being I want to become Full Stack Web Developer & Full Stack Mobile Application
 - 📫 How to reach me ...WhatsApp(+972567266008) FaceBook(Abdallah Elyazgi)
 
