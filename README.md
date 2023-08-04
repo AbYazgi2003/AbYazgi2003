@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Abdallah Sakem Elyazgi
-- 🌱 I’m currently learning JAVA Spring & JavaFX 
-- I Hava Knowledge about frontEnd & BackEnd Web Applicatuon
-- 💞️ I’m looking to Being I want to become Full Stack Web Developer & Full Stack Mobile Application
+- 👋 Hi, I’m @Abdallah Salem Elyazgi
+- 🌱 Jounour php laravel developer  
+- 🧑‍💻 I Hava Knowledge about frontEnd puure & bootstrap 
 - 📫 How to reach me ...WhatsApp(+972567266008) FaceBook(Abdallah Elyazgi)
 
 <!---
