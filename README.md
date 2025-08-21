@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdallah Salem Elyazgi
 - 🌱 Jounour php laravel developer  
-- 🧑‍💻 I Hava Knowledge about frontEnd puure & bootstrap 
+- 🧑‍💻 Full stack (laravel & bootstrap& jquery) web developer
 - 📫 How to reach me ...WhatsApp(+972567266008) FaceBook(Abdallah Elyazgi)
 
 <!---
