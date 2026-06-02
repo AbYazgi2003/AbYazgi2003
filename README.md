@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abdallah Salem Elyazgi
-- 🌱 Jounour php laravel developer  
 - 🧑‍💻 Full stack (laravel & bootstrap& jquery) web developer
+- Data Analyst using python libraries
+- Machine Learning Engineer by scikit learn python
 - 📫 How to reach me ...WhatsApp(+972567266008) FaceBook(Abdallah Elyazgi)
 
 <!---
